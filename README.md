@@ -1,4 +1,11 @@
 # Diagnosis-of-Heart-Disease-in-a-Patient
+
+## Repository guide:
+
+* Data => S3755214_Data.csv
+* Analysis, Code and Reporting => Analysis and Prediction - Code.ipynb
+
+## Introduction
 In medical science and healthcare service industry, predicting the health and a person's vulnerability to diseases can make the difference for the life of death for the person. Especially for high risk diseases such as a heart disease which may be fatal, foreseeing a patient's vulnerability to it, is quite vital. Predicting the presence of heart disease in an individual prompts the doctors to provide appropriate healthcare services and gives them an opportunity to adapt their treatment based on the prediction, thereby saving patient's lives. This project focuses on predicting such condition. We use the subset database, Cleveland database, consisting of 14 out the 76 features from the original database. Most of the published experiments done by researchers, make use of the specified subset of 14 features.
 
 ## Objective
